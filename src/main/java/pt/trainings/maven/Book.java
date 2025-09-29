@@ -13,6 +13,6 @@ public class Book {
 
     @Override
     public String toString() {
-        return "Tytuł: " + title + ", Autor: " + author + ", Rok wydania: " + year;
+        return "Tytułxd: " + title + ", Autor: " + author + ", Rok wydania: " + year;
     }
 }
